@@ -1,0 +1,3 @@
+[submodule "projects_based_on_c"]
+	path = projects_based_on_c
+	url = https://github.com/rby90/project-based-tutorials-in-c
